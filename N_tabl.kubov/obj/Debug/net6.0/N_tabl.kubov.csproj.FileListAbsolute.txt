@@ -1,0 +1,15 @@
+C:\Users\huawei\Desktop\23.02dz\N_tabl.kubov\bin\Debug\net6.0\N_tabl.kubov.exe
+C:\Users\huawei\Desktop\23.02dz\N_tabl.kubov\bin\Debug\net6.0\N_tabl.kubov.deps.json
+C:\Users\huawei\Desktop\23.02dz\N_tabl.kubov\bin\Debug\net6.0\N_tabl.kubov.runtimeconfig.json
+C:\Users\huawei\Desktop\23.02dz\N_tabl.kubov\bin\Debug\net6.0\N_tabl.kubov.dll
+C:\Users\huawei\Desktop\23.02dz\N_tabl.kubov\bin\Debug\net6.0\N_tabl.kubov.pdb
+C:\Users\huawei\Desktop\23.02dz\N_tabl.kubov\obj\Debug\net6.0\N_tabl.kubov.csproj.AssemblyReference.cache
+C:\Users\huawei\Desktop\23.02dz\N_tabl.kubov\obj\Debug\net6.0\N_tabl.kubov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huawei\Desktop\23.02dz\N_tabl.kubov\obj\Debug\net6.0\N_tabl.kubov.AssemblyInfoInputs.cache
+C:\Users\huawei\Desktop\23.02dz\N_tabl.kubov\obj\Debug\net6.0\N_tabl.kubov.AssemblyInfo.cs
+C:\Users\huawei\Desktop\23.02dz\N_tabl.kubov\obj\Debug\net6.0\N_tabl.kubov.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Desktop\23.02dz\N_tabl.kubov\obj\Debug\net6.0\N_tabl.kubov.dll
+C:\Users\huawei\Desktop\23.02dz\N_tabl.kubov\obj\Debug\net6.0\refint\N_tabl.kubov.dll
+C:\Users\huawei\Desktop\23.02dz\N_tabl.kubov\obj\Debug\net6.0\N_tabl.kubov.pdb
+C:\Users\huawei\Desktop\23.02dz\N_tabl.kubov\obj\Debug\net6.0\N_tabl.kubov.genruntimeconfig.cache
+C:\Users\huawei\Desktop\23.02dz\N_tabl.kubov\obj\Debug\net6.0\ref\N_tabl.kubov.dll
