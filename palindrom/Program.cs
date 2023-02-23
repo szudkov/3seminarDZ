@@ -4,9 +4,9 @@ int x = number/10000;
 int y = number%10;
 if (x == y)
 {
-    Console.WriteLine("Это палиндром");
+Console.WriteLine("Это палиндром");
 }
 else
 {
-    Console.WriteLine("Не палиндром");
+Console.WriteLine("Не палиндром");
 }
