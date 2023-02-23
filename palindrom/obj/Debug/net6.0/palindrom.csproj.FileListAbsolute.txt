@@ -1,0 +1,15 @@
+C:\Users\huawei\Desktop\23.02dz\palindrom\bin\Debug\net6.0\palindrom.exe
+C:\Users\huawei\Desktop\23.02dz\palindrom\bin\Debug\net6.0\palindrom.deps.json
+C:\Users\huawei\Desktop\23.02dz\palindrom\bin\Debug\net6.0\palindrom.runtimeconfig.json
+C:\Users\huawei\Desktop\23.02dz\palindrom\bin\Debug\net6.0\palindrom.dll
+C:\Users\huawei\Desktop\23.02dz\palindrom\bin\Debug\net6.0\palindrom.pdb
+C:\Users\huawei\Desktop\23.02dz\palindrom\obj\Debug\net6.0\palindrom.csproj.AssemblyReference.cache
+C:\Users\huawei\Desktop\23.02dz\palindrom\obj\Debug\net6.0\palindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huawei\Desktop\23.02dz\palindrom\obj\Debug\net6.0\palindrom.AssemblyInfoInputs.cache
+C:\Users\huawei\Desktop\23.02dz\palindrom\obj\Debug\net6.0\palindrom.AssemblyInfo.cs
+C:\Users\huawei\Desktop\23.02dz\palindrom\obj\Debug\net6.0\palindrom.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Desktop\23.02dz\palindrom\obj\Debug\net6.0\palindrom.dll
+C:\Users\huawei\Desktop\23.02dz\palindrom\obj\Debug\net6.0\refint\palindrom.dll
+C:\Users\huawei\Desktop\23.02dz\palindrom\obj\Debug\net6.0\palindrom.pdb
+C:\Users\huawei\Desktop\23.02dz\palindrom\obj\Debug\net6.0\palindrom.genruntimeconfig.cache
+C:\Users\huawei\Desktop\23.02dz\palindrom\obj\Debug\net6.0\ref\palindrom.dll
